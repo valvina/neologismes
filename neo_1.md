@@ -1,4 +1,4 @@
-"## Répérage des néologismes"
+## Répérage des néologismes
 
 Voici la prémière version des deux programmes de répérage des néologismes:
 
