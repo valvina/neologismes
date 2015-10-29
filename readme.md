@@ -6,4 +6,5 @@ Voici la prémière version des deux programmes de répérage des néologismes:
 * analyse des candidates sur leur structure
 
 Bonne lecture
+
 Valeriya
